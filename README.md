@@ -1,5 +1,6 @@
 ### Hey there!🙂, I'm Karunya R
--🌱 I’m currently learning Full Stack Developer-MERN
+###🌱 I’m currently learning Full Stack Developer-MERN
+
 -📫 How to reach me:karunya.purasaloor@gmail.com
 
 
